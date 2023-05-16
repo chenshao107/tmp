@@ -1,0 +1,6 @@
+{
+    "name":"xiaomin",
+    "age":66666,
+    "intList":[4,5,6,2]
+
+}
